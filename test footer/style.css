@@ -1,0 +1,42 @@
+.bot{
+    background-color: rgb(64, 67, 104);
+    height: 600px;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 30px;
+}
+
+img:hover{
+    fill: red;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+h3{
+    padding-top: 20px;
+    display: flex;
+    color: aliceblue;
+    justify-content:center ;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+}
+
+.infot{ 
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
+
+.openday{ 
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
+
+li{
+    padding-bottom: 15px;
+}
